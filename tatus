@@ -1,0 +1,195 @@
+[33mcommit cb9997ed0ff05f2e3420f348ebb7ec683999efca[m[33m ([m[1;36mHEAD -> [m[1;32mForm_Starter[m[33m)[m
+Author: Long.H <longkr.work@gmail.com>
+Date:   Mon May 2 15:22:18 2022 -0500
+
+    nothing changed
+
+[33mcommit 377e9ae82582b3c0aa968575a002c04ffb35deca[m[33m ([m[1;31morigin/Form_Starter[m[33m)[m
+Merge: 154273b a89aaa0
+Author: Jaina Morgan <jaina.morgan@bloc.io>
+Date:   Tue Mar 23 20:42:29 2021 -0400
+
+    Merge pull request #3 from Thinkful-Ed/standardize_form_starter
+    
+    Standardize form starter
+
+[33mcommit a89aaa016393f1ccc98797594e551039df7ff04c[m
+Merge: 154273b b074799
+Author: Jaina Morgan <jaina.morgan@bloc.io>
+Date:   Sun Mar 14 15:50:55 2021 -0400
+
+    Merge branch 'standardize_event_listeners' into standardize_form_starter
+
+[33mcommit b074799e8f8da263def8a91c83555fc1da86cba0[m
+Merge: 53e8198 4f150c6
+Author: Jaina Morgan <jaina.morgan@bloc.io>
+Date:   Sat Mar 13 21:02:56 2021 -0500
+
+    Merge branch 'standardize_updating_dom' into standardize_event_listeners
+
+[33mcommit 4f150c60969565c70ad43f5aea1c4513e8f3bbb0[m
+Merge: f65db10 bb093e3
+Author: Jaina Morgan <jaina.morgan@bloc.io>
+Date:   Fri Mar 12 22:59:45 2021 -0500
+
+    Merge branch 'standardize_selector' into standardize_updating_dom
+
+[33mcommit bb093e3ce12f21330ae7a1edf945cdc66609f66e[m
+Merge: a51d571 9a7cc68
+Author: Jaina Morgan <jaina.morgan@bloc.io>
+Date:   Fri Mar 12 22:38:57 2021 -0500
+
+    Merge branch 'standardize_master' into standardize_selector
+
+[33mcommit 9a7cc6816ce900cdd1686bc7e4c31fd760ea75e7[m
+Author: Jaina Morgan <jaina.morgan@bloc.io>
+Date:   Fri Mar 12 22:29:57 2021 -0500
+
+    standardize html id/class conventions
+
+[33mcommit 33aff91a277091af2140363173139209edf5f2be[m
+Merge: 51f10b5 ef4bd90
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Wed Jan 13 19:24:33 2021 -0400
+
+    Merge pull request #2 from kchia/live-server
+    
+    Live server
+
+[33mcommit ef4bd903fa4661dbbe4406ad8147ffb1daf5d069[m
+Author: kchia <kchia87@gmail.com>
+Date:   Tue Jan 12 19:50:53 2021 -1000
+
+    fix: remove cd command
+
+[33mcommit 17fc21653fd20deacc8b0270313f81e9842d0aed[m
+Author: kchia <kchia87@gmail.com>
+Date:   Tue Jan 12 19:46:39 2021 -1000
+
+    feat: use live server instead of lite-server
+
+[33mcommit 154273b16c624600956743641dce28aa42f2376c[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Wed Nov 25 11:11:58 2020 -0400
+
+    Update HTML file with structure to support validation
+
+[33mcommit f65db10634dac0b644cf00d3925175f0701b7a67[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 21 12:25:16 2020 -0400
+
+    Add missing let keyword
+
+[33mcommit 43bbb3829128b906eb68d0f8eddad9c5db77c392[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 21 12:12:19 2020 -0400
+
+    Fix class names to be kebab-case
+
+[33mcommit ac05371136d72109964b845186c2067d8d5342c4[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 21 09:51:10 2020 -0400
+
+    Updated README
+
+[33mcommit a51d5716bb71713d85c6a26a2a762f1925b788dd[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 21 09:49:49 2020 -0400
+
+    Updated README
+
+[33mcommit f5bc4973a36b9c1347359a94aaa1c24cb8df2157[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 21 09:42:56 2020 -0400
+
+    Updated README
+
+[33mcommit 53e81988e8d62a1cf0e4408c37c2c8c75e994291[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 21 09:35:20 2020 -0400
+
+    Updated README
+
+[33mcommit 51f10b5fa72cda046fc6f68d2a73a714fb98c930[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 21 09:33:42 2020 -0400
+
+    Update repo URL and instructions
+
+[33mcommit 6a7e32f7655d9172f317741bb0c351f533aea005[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Wed Aug 19 19:04:04 2020 -0400
+
+    Update README with Thinkful-Ed github repo
+
+[33mcommit 52d282f05df69726978dd34da56318e522ab4448[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Sun Aug 16 21:47:15 2020 -0400
+
+    Update form names and fixed error messages
+
+[33mcommit 4135a3dfce1ef80d6d9decc1991d36460a928c39[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Sun Aug 16 21:04:12 2020 -0400
+
+    Add error messages for the form.
+
+[33mcommit de3e37f1bf1a7b579afcfe971c91b3baaec8b73a[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Sun Aug 16 20:56:23 2020 -0400
+
+    Add heading and slight colour to form
+
+[33mcommit 55b1e2632c303087ed777d41a8e590dfeb44dcd6[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Sun Aug 16 16:43:11 2020 -0400
+
+    Solution code for the event listener checkpoint
+
+[33mcommit ada66fb9e2123c884d62837034b6ac4c1f9187cf[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Sat Aug 15 16:56:01 2020 -0400
+
+    Solutions code for updating DOM checkpoint
+
+[33mcommit 240c95cc67f8debd4f8724bfdedb3f79fb5426b2[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Sat Aug 15 12:59:49 2020 -0400
+
+    Add solutions for the Select checkpoint
+
+[33mcommit 6fa0ff6794cd804b71dfa31bd44c9d7959159dc2[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 14 14:55:51 2020 -0400
+
+    Update markdown for images in readme
+
+[33mcommit 7682a4711c8c1440a3e264916d9248af9e31f876[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 14 14:53:32 2020 -0400
+
+    Scaled images
+
+[33mcommit 5004e9a7eeffdf0a5072f02a4ff6462f926721bf[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 14 14:50:24 2020 -0400
+
+    Add screenshots for the app
+
+[33mcommit 0ab23dabf316ec6e46b35881c369b0c46c81763b[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 14 12:11:55 2020 -0400
+
+    Add demo link and license to readme
+
+[33mcommit aad76591638b093852be7979f73d80fbe1114ad0[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 14 12:04:17 2020 -0400
+
+    Create LICENSE
+
+[33mcommit 8ec9e623ddf63de6600cb11e27d75ab0976c456f[m
+Author: Vincent Ramdhanie <vramdhanie@gmail.com>
+Date:   Fri Aug 14 12:03:17 2020 -0400
+
+    Initialize repository with HTML and CSS only
